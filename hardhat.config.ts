@@ -30,7 +30,7 @@ const config: HardhatUserConfig = {
       default: 0,
     },
   },
-  defaultNetwork: "mumbai",
+  defaultNetwork: "hardhat",
 
   networks: {
     hardhat: {

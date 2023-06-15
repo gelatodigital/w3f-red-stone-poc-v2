@@ -32,12 +32,12 @@ You will need to input your `PROVIDER_URL`, your RPC.
 
 3. Test the  web3 function
 ```
-npx w3f test src/web3-functions/redstone/index.ts --logs --chain-id=80001
+npx w3f test web3-functions/redstone/index.ts --logs --chain-id=80001
 ```
 
 4. Deploy the web3 function on IPFS
 ```
-npx w3f deploy src/web3-functions/redstone/index.ts
+npx w3f deploy web3-functions/redstone/index.ts
 ```
 
  ✓ Web3Function deployed to ipfs.

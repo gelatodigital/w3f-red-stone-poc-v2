@@ -3,7 +3,7 @@
 
 ## Summary
 
-RedStone Oracle that using Pyth Network and Gelato Web3 functions to:
+Oracle that using RedStone and Gelato Web3 functions to:
 - Push on-chain price if the price difference between stored and live price is gerater than 20%
 
 ## Demo

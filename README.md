@@ -25,7 +25,7 @@ yarn install
 
 2. Create a `.env` file with your private config:
 ```
-cp .env.example .env
+cp .env-example .env
 ```
 You will need to input your `PROVIDER_URL`, your RPC.
 

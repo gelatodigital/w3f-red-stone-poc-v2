@@ -27,7 +27,7 @@ yarn install
 ```
 cp .env.example .env
 ```
-You will need to input your `PROVIDER_URL`, your RPC.
+You will need to input your `PROVIDER_URLS`, your RPC.
 
 
 3. Test the  web3 function
